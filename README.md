@@ -1,4 +1,6 @@
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+#MULAGRAM
+
+## A rede social das mulas do Chat
 
 This is a [Create React App](https://create-react-app.dev/) boilerplate with some configurations from React Avançado Course.
 
